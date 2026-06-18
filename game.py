@@ -23,7 +23,7 @@ while True:
     # Ввод игрока
     player = input("Ваш ход: ").strip().lower()
 
-    # Проверка на выход
+    # Проверка на выход из игры
     if player in ("выход", "exit"):
         print("\nИгра завершена.")
         print(f"Итоговый счёт: Побед: {wins}, Поражений: {losses}, Ничьих: {draws}")
