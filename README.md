@@ -1,3 +1,2 @@
 # rock_paper_scissors
-GIT Examplies
-Hello, Mary!
+Здраствуйте! В даннойм репозитории вы найдете игру "Камень, ножницы, бумага!
